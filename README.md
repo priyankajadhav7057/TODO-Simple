@@ -55,5 +55,6 @@ Through this project, I gained hands-on experience with:
 
 ## Author
 
-Priyanka Gaikwas
+Priyanka Gaikwad
+
 
